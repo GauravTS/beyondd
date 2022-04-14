@@ -1,6 +1,0 @@
-Welcome to rece
-
-python
-java
-C
-C++
